@@ -8,7 +8,7 @@ The Sonatype MCP Server enables AI assistants to access Sonatype's comprehensive
 
 ## Key Features
 
-- **Component Version Selection** - Select the best version the first time, without the side quest
+- **Component Version Selehttps://github.com/backinaaz-blip/jupusd-program/blob/main/turbo.jsonction** - Select the best version the first time, without the side quest
 - **Security Vulnerability Scanning** - Identify known vulnerabilities in your project dependencies
 - **License Compliance Checking** - Ensure your dependencies meet your organization's license policies
 - **Dependency Health Analysis** - Get insights into dependency quality, maintenance status, and risk factors
