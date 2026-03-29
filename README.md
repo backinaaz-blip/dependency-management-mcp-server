@@ -305,4 +305,4 @@ The Sonatype MCP Server provides three powerful tools for AI assistants:
 
 Sonatype is the leader in software supply chain security, providing solutions that help organizations manage open source risk throughout the development lifecycle. Learn more at [sonatype.com](https://www.sonatype.com).
 
-Built with ❤️ for developers who care about secure software supply chains.
+Built with ❤️ for developers who care about secure software supply chains.>
